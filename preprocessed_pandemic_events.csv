@@ -1,0 +1,213 @@
+event,disease_cleaned,country,duration_years,death_toll_cleaned,affected_continents,number_of_affected_continents,years_ago_ended,disease_encoded,country_encoded,affected_continents_encoded
+Plague of Justinian (beginning of first plague pandemic),Bubonic plague,Multiple,8,57500000.0,"europe, asia",2,1474,3,37,5
+Plague of Sheroe (part of First plague pandemic),Bubonic plague,Bilad al-Sham,1,25000.0,asia,1,1395,3,5,1
+Plague of Amwas (part of first plague pandemic),Bubonic plague,Multiple,1,25000.0,"europe, asia, africa",3,1384,3,37,6
+735–737 Japanese smallpox epidemic,Smallpox,Japan,2,2000000.0,asia,1,1286,37,31,1
+Black Death (start of the second plague pandemic),Bubonic plague,Multiple,7,137500000.0,"europe, asia, africa",3,670,3,37,6
+1489 Spain typhus epidemic,Typhus,Spain,0,17000.0,europe,1,534,39,52,4
+1520 Mexico smallpox epidemic,Smallpox,Mexico,1,6500000.0,north_america,1,503,37,36,10
+1563 London plague (part of the second plague pandemic),Bubonic plague,United Kingdom,1,20100.0,europe,1,459,3,56,4
+1582 Tenerife plague epidemic (part of the second plague pandemic),Bubonic plague,Spain,1,7000.0,europe,1,440,3,52,4
+1592–1593 Malta plague epidemic (part of the second plague pandemic),Bubonic plague,Malta,1,3000.0,europe,1,430,3,35,4
+1592–1593 London plague (part of the second plague pandemic),Bubonic plague,United Kingdom,1,19900.0,europe,1,430,3,56,4
+1596–1602 Spain plague epidemic (part of the second plague pandemic),Bubonic plague,Spain,6,650000.0,europe,1,421,3,52,4
+1603 London plague epidemic (part of the second plague pandemic),Bubonic plague,United Kingdom,0,40000.0,europe,1,420,3,56,4
+1629–1631 Italian plague (part of the second plague pandemic),Bubonic plague,Italy,2,1000000.0,europe,1,392,3,30,4
+1632–1635 Augsburg plague epidemic (part of the second plague pandemic),Bubonic plague,Germany,3,13712.0,europe,1,388,3,21,4
+Massachusetts smallpox epidemic,Smallpox,United States,1,1000.0,north_america,1,389,37,57,10
+1634–1640 Wyandot people epidemic,Multiple,Multiple,6,20000.0,north_america,1,383,27,37,10
+1637 London plague epidemic (part of the second plague pandemic),Bubonic plague,United Kingdom,1,10400.0,europe,1,386,3,56,4
+Great Plague in the late Ming dynasty (part of the second plague pandemic),Bubonic plague,China,11,200000.0,asia,1,379,3,11,1
+Great Plague of Seville (part of the second plague pandemic),Bubonic plague,Spain,5,500000.0,europe,1,371,3,52,4
+Naples Plague (part of the second plague pandemic),Bubonic plague,Italy,2,1250000.0,europe,1,365,3,30,4
+1663–1664 Amsterdam plague epidemic (part of the second plague pandemic),Bubonic plague,Netherlands,1,24148.0,europe,1,359,3,38,4
+Great Plague of London (part of the second plague pandemic),Bubonic plague,United Kingdom,1,100000.0,europe,1,357,3,56,4
+1668 France plague (part of the second plague pandemic),Bubonic plague,France,0,40000.0,europe,1,355,3,20,4
+1675–1676 Malta plague epidemic (part of the second plague pandemic),Bubonic plague,Malta,1,11300.0,europe,1,347,3,35,4
+1677–1678 Boston smallpox epidemic,Smallpox,United States,1,875.0,north_america,1,345,37,57,10
+Great Plague of Vienna (part of the second plague pandemic),Bubonic plague,Austria,0,76000.0,europe,1,344,3,3,4
+1681 Prague plague epidemic (part of the second plague pandemic),Bubonic plague,Czechia,0,83000.0,europe,1,342,3,14,4
+1693 Boston yellow fever epidemic,Yellow fever,United States,0,3100.0,north_america,1,330,42,57,10
+1699 Charleston and Philadelphia yellow fever epidemic,Yellow fever,Multiple,0,520.0,north_america,1,324,42,37,10
+1702 New York City yellow fever epidemic,Yellow fever,Multiple,0,500.0,north_america,1,321,42,37,10
+1702–1703 St. Lawrence Valley smallpox epidemic,Smallpox,Canada,1,1300.0,north_america,1,320,37,9,10
+1707–1709 Iceland smallpox epidemic,Smallpox,Iceland,2,18000.0,europe,1,314,37,25,4
+Great Northern War plague outbreak (part of the second plague pandemic),Bubonic plague,Multiple,2,164000.0,europe,1,311,3,37,4
+Great Plague of Marseille (part of the second plague pandemic),Bubonic plague,France,2,100000.0,europe,1,301,3,20,4
+1721 Boston smallpox outbreak,Smallpox,United States,1,844.0,north_america,1,301,37,57,10
+1730 Cádiz yellow fever epidemic,Yellow fever,Spain,0,2200.0,europe,1,293,42,52,4
+1735–1741 diphtheria epidemic,Diphtheria,Multiple,6,20000.0,north_america,1,282,8,37,10
+Great Plague of 1738 (part of the second plague pandemic),Bubonic plague,Multiple,0,50000.0,europe,1,285,3,37,4
+1738–1739 North Carolina smallpox epidemic,Smallpox,United States,1,9700.0,north_america,1,284,37,57,10
+1741 Cartagena yellow fever epidemic,Yellow fever,Colombia,0,20000.0,south_america,1,282,42,12,13
+1743 Sicily plague epidemic (part of the second plague pandemic),Bubonic plague,Italy,0,45000.0,europe,1,280,3,30,4
+1760 Charleston smallpox epidemic,Smallpox,Multiple,0,835.0,north_america,1,263,37,37,10
+1762 Havana yellow fever epidemic,Yellow fever,Cuba,0,8000.0,north_america,1,261,42,13,10
+1770–1772 Russian plague (part of the second plague pandemic),Bubonic plague,Russia,2,50000.0,"europe, asia",2,251,3,48,5
+1772 North America measles epidemic,Measles,Multiple,0,1080.0,north_america,1,251,24,37,10
+1772–1773 Persian Plague (part of the second plague pandemic),Bubonic plague,Persia,1,2000000.0,asia,1,250,3,44,1
+1775–1782 North American smallpox epidemic,Smallpox,United States,7,11000.0,north_america,1,241,37,57,10
+1793 Philadelphia yellow fever epidemic,Yellow fever,United States,0,5000.0,north_america,1,230,42,57,10
+1800–1803 Spain yellow fever epidemic,Yellow fever,Spain,3,60000.0,europe,1,220,42,52,4
+1802–1803 Saint-Domingue yellow fever epidemic,Yellow fever,Saint-Domingue,1,42000.0,north_america,1,220,42,49,10
+1812 Russia typhus epidemic,Typhus,Russia,0,300000.0,"europe, asia",2,211,39,48,5
+1812–1819 Ottoman plague epidemic (part of the second plague pandemic),Bubonic plague,Ottoman Empire,7,300000.0,"europe, asia",2,204,3,41,5
+1813–1814 Malta plague epidemic (part of the second plague pandemic),Bubonic plague,Malta,1,4500.0,europe,1,209,3,35,4
+Caragea's plague (part of the second plague pandemic),Bubonic plague,Romania,0,60000.0,europe,1,210,3,47,4
+1817–1819 Ireland typhus epidemic,Typhus,Ireland,2,65000.0,europe,1,204,39,29,4
+First cholera pandemic,Cholera,Multiple,7,100000.0,"europe, asia",2,199,6,37,5
+1820 Savannah yellow fever epidemic,Yellow fever,United States,0,700.0,north_america,1,203,42,57,10
+1821 Barcelona yellow fever epidemic,Yellow fever,Spain,0,12500.0,europe,1,202,42,52,4
+Second cholera pandemic,Cholera,Multiple,11,100000.0,"europe, asia, north_america",3,186,6,37,9
+1828–1829 New South Wales smallpox epidemic,Smallpox,Australia,1,19000.0,oceania,1,194,37,2,12
+Groningen epidemic,Malaria,Netherlands,0,2800.0,europe,1,194,22,38,4
+1829–1833 Pacific Northwest malaria epidemic,Multiple,United States,4,150000.0,north_america,1,190,27,57,10
+1837 Great Plains smallpox epidemic,Smallpox,Multiple,1,17000.0,north_america,1,185,37,37,10
+1841 Southern United States yellow fever epidemic,Yellow fever,United States,0,3498.0,north_america,1,182,42,57,10
+1847 North American typhus epidemic,Typhus,Canada,1,20000.0,north_america,1,175,39,9,10
+1847 Southern United States yellow fever epidemic,Yellow fever,United States,0,3400.0,north_america,1,176,42,57,10
+1848–1849 Hawaii epidemic of infections,Multiple,Hawaiian Kingdom,1,10000.0,oceania,1,174,27,23,12
+1853 New Orleans yellow fever epidemic,Yellow fever,United States,0,7970.0,north_america,1,170,42,57,10
+Third cholera pandemic,Cholera,Multiple,14,1000000.0,"europe, asia, africa, oceania, north_america, south_america",6,163,6,37,7
+1853 Copenhagen cholera outbreak,Cholera,Denmark,0,4737.0,europe,1,170,6,16,4
+1854 Broad Street cholera outbreak,Cholera,United Kingdom,0,616.0,europe,1,169,6,56,4
+1855 Norfolk yellow fever epidemic,Yellow fever,United Kingdom,0,3000.0,europe,1,168,42,56,4
+Third plague pandemic,Bubonic plague,Multiple,105,13500000.0,"europe, asia, africa, oceania, north_america, south_america",6,63,3,37,7
+1855–1857 Montevideo yellow fever epidemic,Yellow fever,Uruguay,2,3400.0,south_america,1,166,42,58,13
+1857 Lisbon yellow fever epidemic,Yellow fever,Portugal,0,6000.0,europe,1,166,42,46,4
+1862 Pacific Northwest smallpox epidemic,Smallpox,Multiple,1,20000.0,north_america,1,160,37,37,10
+1861–1865 United States typhoid fever epidemic,Typhoid fever,United States,4,80000.0,north_america,1,158,38,57,10
+Fourth cholera pandemic,Cholera,Multiple,12,600000.0,asia,1,148,6,37,1
+1867 Sydney measles epidemic,Measles,Australia,0,748.0,oceania,1,156,24,2,12
+1871 Buenos Aires yellow fever epidemic,Yellow fever,Argentina,0,19850.0,south_america,1,152,42,1,13
+1870–1875 Europe smallpox epidemic,Smallpox,Multiple,5,500000.0,europe,1,148,37,37,4
+1875 Fiji measles outbreak,Measles,Fiji,0,40000.0,oceania,1,148,24,19,12
+1875–1876 Australia scarlet fever epidemic,Scarlet fever,Australia,1,8000.0,oceania,1,147,36,2,12
+1876 Ottoman Empire plague epidemic,Bubonic plague,Ottoman Empire,0,20000.0,"europe, asia",2,147,3,41,5
+1878 New Orleans yellow fever epidemic,Yellow fever,United States,0,4046.0,north_america,1,145,42,57,10
+1878 Mississippi Valley yellow fever epidemic,Yellow fever,United States,0,13000.0,north_america,1,145,42,57,10
+Fifth cholera pandemic,Cholera,Multiple,15,298600.0,"europe, asia, africa, south_america",4,127,6,37,8
+1885 Montreal smallpox epidemic,Smallpox,Canada,0,3164.0,north_america,1,138,37,9,10
+1889–1890 pandemic,Disputed,Multiple,1,1000000.0,"europe, asia, africa, oceania, north_america, south_america",6,133,9,37,7
+1894 Hong Kong plague (part of the third plague pandemic),Bubonic plague,Hong Kong,35,20000.0,asia,1,94,3,24,1
+Bombay plague epidemic (part of the third plague pandemic),Bubonic plague,India,9,20788.0,asia,1,118,3,26,1
+1896–1906 Congo Basin African trypanosomiasis epidemic,African trypanosomiasis,Multiple,10,500000.0,africa,1,117,0,37,0
+1899 Porto plague outbreak (part of the third plague pandemic),Bubonic plague,Portugal,0,132.0,europe,1,124,3,46,4
+Sixth cholera pandemic,Cholera,Multiple,24,800000.0,"europe, asia, africa",3,100,6,37,6
+San Francisco plague of 1900–1904 (part of the third plague pandemic),Bubonic plague,United States,4,119.0,north_america,1,119,3,57,10
+1900 Sydney bubonic plague epidemic (part of the third plague pandemic),Bubonic plague,Australia,0,103.0,oceania,1,123,3,2,12
+1900–1920 Uganda African trypanosomiasis epidemic,African trypanosomiasis,Uganda,20,250000.0,africa,1,103,0,55,0
+Papua New Guinea kuru epidemic,Kuru,Papua New Guinea,108,2700.0,oceania,1,14,18,43,12
+1903 Fremantle plague epidemic (part of the third plague pandemic),Bubonic plague,Australia,0,4.0,oceania,1,120,3,2,12
+1906 malaria outbreak in Ceylon,Malaria,Sri Lanka,30,80000.0,asia,1,87,22,53,1
+Manchurian plague (part of the third plague pandemic),Pneumonic plague,China,1,60000.0,asia,1,112,30,11,1
+1915 encephalitis lethargica pandemic,Encephalitis lethargica,Multiple,11,500000.0,"europe, asia, africa, oceania, north_america, south_america",6,97,11,37,7
+1916 United States polio epidemic,Poliomyelitis,United States,0,7130.0,north_america,1,107,31,57,10
+1918 influenza pandemic ('Spanish flu'),Influenza,Multiple,2,58500000.0,"europe, asia, africa, oceania, north_america, south_america",6,103,16,37,7
+1918–1922 Russia typhus epidemic,Typhus,Russia,4,2500000.0,"europe, asia",2,101,39,48,5
+1924 Los Angeles pneumonic plague outbreak,Pneumonic plague,United States,0,30.0,north_america,1,99,30,57,10
+1924–1925 Minnesota smallpox epidemic,Smallpox,United States,1,500.0,north_america,1,98,37,57,10
+1927 Montreal typhoid fever epidemic,Typhoid fever,Canada,0,538.0,north_america,1,96,38,9,10
+1929–1930 psittacosis pandemic,Psittacosis,Multiple,1,100.0,"europe, asia, africa, oceania, north_america, south_america",6,93,32,37,7
+Croydon typhoid outbreak of 1937,Typhoid fever,United Kingdom,0,43.0,europe,1,86,38,56,4
+1940 Sudan yellow fever epidemic,Yellow fever,Sudan,0,1627.0,africa,1,83,42,54,0
+1947 Egypt cholera epidemic,Cholera,Egypt,0,10277.0,africa,1,76,6,17,0
+1948–1952 United States polio epidemic,Poliomyelitis,United States,4,9000.0,north_america,1,71,31,57,10
+1957–1958 influenza pandemic ('Asian flu'),Influenza,Multiple,1,2500000.0,"europe, asia, africa, oceania, north_america, south_america",6,65,16,37,7
+1960–1962 Ethiopia yellow fever epidemic,Yellow fever,Ethiopia,2,30000.0,africa,1,61,42,18,0
+Seventh cholera pandemic,Cholera,Multiple,14,36000.0,"europe, asia, africa, oceania, north_america, south_america",6,48,6,37,7
+Hong Kong flu,Influenza,Multiple,2,2500000.0,"europe, asia, africa, oceania, north_america, south_america",6,53,16,37,7
+1971 Staphorst polio epidemic,Poliomyelitis,Netherlands,0,5.0,europe,1,52,31,38,4
+1972 Yugoslav smallpox outbreak,Smallpox,Yugoslavia,0,35.0,europe,1,51,37,62,4
+London flu,Influenza,United States,1,1027.0,north_america,1,50,16,57,10
+1973 Italy cholera epidemic,Cholera,Italy,0,24.0,europe,1,50,6,30,4
+1974 smallpox epidemic in India,Smallpox,India,0,15000.0,asia,1,49,37,26,1
+1977 Russian flu,Influenza,Multiple,2,700000.0,"europe, asia, africa, oceania, north_america, south_america",6,44,16,37,7
+Sverdlovsk anthrax leak,Anthrax,Russia,0,105.0,"europe, asia",2,44,1,48,5
+HIV/AIDS pandemic,HIV/AIDS,Multiple,42,42000000.0,"europe, asia, africa, oceania, north_america, south_america",6,0,12,37,7
+1984 Western Sahara plague,Bubonic plague,Western Sahara,0,64.0,africa,1,39,3,60,0
+1986 Oju yellow fever epidemic,Yellow fever,Nigeria,0,5600.0,africa,1,37,42,40,0
+1987 Mali yellow fever epidemic,Yellow fever,Mali,0,145.0,africa,1,36,42,34,0
+1988 Shanghai hepatitis A epidemic,Hepatitis A,China,0,39.0,asia,1,35,14,11,1
+1991 Bangladesh cholera epidemic,Cholera,Bangladesh,0,8921.0,asia,1,32,6,4,1
+1991 Latin America cholera epidemic,Cholera,Multiple,2,8000.0,"north_america, south_america",2,30,6,37,11
+1994 plague in India,Multiple,India,0,56.0,asia,1,29,27,26,1
+United Kingdom BSE outbreak,Variant Creutzfeldt–Jakob disease,United Kingdom,5,178.0,europe,1,22,41,56,4
+1996 West Africa meningitis epidemic,Meningitis,Multiple,0,10000.0,africa,1,27,25,37,0
+1998–1999 Malaysia Nipah virus outbreak,Nipah virus infection,Malaysia,1,105.0,asia,1,24,29,33,1
+1998–2000 Democratic Republic of the Congo Marburg virus outbreak,Marburg virus,Democratic Republic of the Congo,2,128.0,africa,1,23,23,15,0
+2000 Central America dengue epidemic,Dengue fever,Multiple,0,40.0,north_america,1,23,7,37,10
+2001 Nigeria cholera epidemic,Cholera,Nigeria,0,400.0,africa,1,22,6,40,0
+2001 South Africa cholera epidemic,Cholera,Multiple,0,139.0,africa,1,22,6,37,0
+2002–2004 SARS outbreak,SARS,Multiple,2,774.0,"europe, asia, africa, oceania, north_america, south_america",6,19,35,37,7
+2003–2019 Asia and Egypt avian influenza epidemic,Influenza,Multiple,16,455.0,"asia, africa",2,4,16,37,2
+2004 Indonesia dengue epidemic,Dengue fever,Indonesia,0,658.0,asia,1,19,7,27,1
+2004 Sudan Ebola outbreak,Ebola,Sudan,0,7.0,africa,1,19,10,54,0
+2004–2005 Angola Marburg virus outbreak,Marburg virus,Angola,1,227.0,africa,1,18,23,0,0
+2005 dengue outbreak in Singapore,Dengue fever,Singapore,0,27.0,asia,1,18,7,51,1
+2006 Luanda cholera epidemic,Cholera,Angola,0,1200.0,africa,1,17,6,0,0
+2006 Ituri Province plague epidemic,Bubonic plague,Democratic Republic of the Congo,0,61.0,africa,1,17,3,15,0
+2006 India malaria outbreak,Malaria,India,0,17.0,asia,1,17,22,26,1
+2006 dengue outbreak in India,Dengue fever,India,0,50.0,asia,1,17,7,26,1
+2006 dengue outbreak in Pakistan,Dengue fever,Pakistan,0,50.0,asia,1,17,7,42,1
+2006 Philippines dengue epidemic,Dengue fever,Philippines,0,1000.0,asia,1,17,7,45,1
+2006–2007 East Africa Rift Valley fever outbreak,Rift Valley fever,Multiple,1,394.0,africa,1,16,34,37,0
+Mweka Ebola epidemic,Ebola,Democratic Republic of the Congo,0,187.0,africa,1,16,10,15,0
+2007 Ethiopia cholera epidemic,Cholera,Ethiopia,0,684.0,africa,1,16,6,18,0
+2007 Iraq cholera outbreak,Cholera,Iraq,0,10.0,asia,1,16,6,28,1
+"2007 Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic",Dengue fever,Multiple,0,183.0,north_america,1,16,7,37,10
+2007 Uganda Ebola outbreak,Ebola,Uganda,0,37.0,africa,1,16,10,55,0
+2007 Netherlands Q-fever epidemic,Q-fever,Netherlands,11,95.0,europe,1,5,33,38,4
+2008 Brazil dengue epidemic,Dengue fever,Brazil,0,67.0,south_america,1,15,7,7,13
+2008 Cambodia dengue epidemic,Dengue fever,Cambodia,0,407.0,asia,1,15,7,8,1
+2008 Chad cholera epidemic,Cholera,Chad,0,123.0,africa,1,15,6,10,0
+"2008–2017 China hand, foot, and mouth disease epidemic","Hand, foot, and mouth disease",China,9,3322.0,asia,1,6,13,11,1
+2008 India cholera epidemic,Cholera,India,0,115.0,asia,1,15,6,26,1
+2008 Madagascar plague outbreak,Bubonic plague,Madagascar,0,18.0,africa,1,15,3,32,0
+2008 Philippines dengue epidemic,Dengue fever,Philippines,0,172.0,asia,1,15,7,45,1
+2008 Zimbabwean cholera outbreak,Cholera,Zimbabwe,1,4293.0,africa,1,14,6,63,0
+2009 Bolivian dengue fever epidemic,Dengue fever,Bolivia,0,18.0,south_america,1,14,7,6,13
+2009 Gujarat hepatitis outbreak,Hepatitis B,India,0,49.0,asia,1,14,15,26,1
+Queensland 2009 dengue outbreak,Dengue fever,Australia,0,1.0,oceania,1,14,7,2,12
+2009–2010 West African meningitis outbreak,Meningitis,Multiple,1,1100.0,africa,1,13,25,37,0
+2009 swine flu pandemic,Influenza,Multiple,1,18449.0,"europe, asia, africa, oceania, north_america, south_america",6,13,16,37,7
+2009 swine flu pandemic,Influenza,Multiple,1,363550.0,"europe, asia, africa, oceania, north_america, south_america",6,13,16,37,7
+2010s Haiti cholera outbreak,Cholera,Haiti,9,10075.0,north_america,1,4,6,22,10
+2010–2014 Democratic Republic of the Congo measles outbreak,Measles,Democratic Republic of the Congo,4,4500.0,africa,1,9,24,15,0
+"2011 Vietnam hand, foot, and mouth disease epidemic","Hand, foot, and mouth disease",Vietnam,0,170.0,asia,1,12,13,59,1
+2011 dengue outbreak in Pakistan,Dengue fever,Pakistan,0,350.0,asia,1,12,7,42,1
+"2012 yellow fever outbreak in Darfur, Sudan",Yellow fever,Sudan,0,171.0,africa,1,11,42,54,0
+2012 Middle East respiratory syndrome coronavirus outbreak,MERS,Multiple,9,941.0,"europe, asia, africa, oceania, north_america, south_america",6,2,21,37,7
+2013 dengue outbreak in Singapore,Dengue fever,Singapore,0,8.0,asia,1,10,7,51,1
+2013 Vietnam measles outbreak,Measles,Vietnam,1,142.0,asia,1,9,24,59,1
+Western African Ebola virus epidemic,Ebola,Multiple,3,11323.0,"europe, asia, africa, oceania, north_america, south_america",6,7,10,37,7
+2013–2014 chikungunya outbreak,Chikungunya,Multiple,2,183.0,"north_america, south_america",2,8,5,37,11
+2013–19 avian influenza epidemic,Influenza,China,6,616.0,asia,1,4,16,11,1
+21st century Madagascar plague outbreaks,Bubonic plague,Madagascar,3,292.0,africa,1,6,3,32,0
+Flint water crisis,Legionnaires' disease,United States,1,12.0,north_america,1,8,20,57,10
+2014 Odisha hepatitis outbreak,Multiple,India,1,36.0,asia,1,8,27,26,1
+2015 Indian swine flu outbreak,Influenza,India,0,2035.0,asia,1,8,16,26,1
+2015–16 Zika virus epidemic,Zika virus,Multiple,1,53.0,"europe, asia, africa, oceania, north_america, south_america",6,7,43,37,7
+2016 Angola and Democratic Republic of the Congo yellow fever outbreak,Yellow fever,Multiple,0,498.0,africa,1,7,42,37,0
+2016–2022 Yemen cholera outbreak,Cholera,Yemen,6,3981.0,asia,1,1,6,61,1
+2017 dengue outbreak in Peshawar,Dengue fever,Pakistan,0,69.0,asia,1,6,7,42,1
+2017 Gorakhpur hospital deaths,Japanese encephalitis,India,0,1317.0,asia,1,6,17,26,1
+2017 dengue outbreak in Sri Lanka,Dengue fever,Sri Lanka,0,440.0,asia,1,6,7,53,1
+2018 Nipah virus outbreak in Kerala,Nipah virus infection,India,0,17.0,asia,1,5,29,26,1
+Kivu Ebola epidemic,Ebola,Multiple,2,2280.0,africa,1,3,10,37,0
+2018 NDM-CRE outbreak in Italy,NDM-producing CRE,Italy,1,31.0,europe,1,4,28,30,4
+2019–2020 measles outbreak in the Democratic Republic of the Congo,Measles,Democratic Republic of the Congo,1,7018.0,africa,1,3,24,15,0
+2019–2020 New Zealand measles outbreak,Measles,New Zealand,1,2.0,oceania,1,3,24,39,12
+2019 measles outbreak in the Philippines,Measles,Philippines,0,415.0,asia,1,4,24,45,1
+2019 Kuala Koh measles outbreak,Measles,Malaysia,0,15.0,asia,1,4,24,33,1
+2019 Samoa measles outbreak,Measles,Samoa,0,83.0,oceania,1,4,24,50,12
+2019–2020 dengue fever epidemic,Dengue fever,Multiple,1,3930.0,"asia, oceania, north_america, south_america",4,3,7,37,3
+2019 Nigeria Lassa fever epidemic,Lassa fever,Nigeria,2,247.0,africa,1,2,19,40,0
+COVID-19 pandemic,COVID,Multiple,4,18000000.0,"europe, asia, africa, oceania, north_america, south_america",6,0,4,37,7
+2020 Democratic Republic of the Congo Ebola outbreak,Ebola,Democratic Republic of the Congo,0,55.0,africa,1,3,10,15,0
+2020 dengue outbreak in Singapore,Dengue fever,Singapore,0,32.0,asia,1,3,7,51,1
+2020 Nigeria yellow fever epidemic,Yellow fever,Nigeria,0,296.0,africa,1,3,42,40,0
+2021 India black fungus epidemic,Black fungus,India,1,4332.0,asia,1,1,2,26,1
+2022 hepatitis of unknown origin in children,Unconfirmed,Multiple,1,18.0,"europe, asia, africa, oceania, north_america, south_america",6,1,40,37,7
+2022–2023 monkeypox outbreak,Monkeypox virus,Multiple,1,280.0,"europe, asia, africa, oceania, north_america, south_america",6,0,26,37,7
+2022 Uganda Ebola outbreak,Ebola,Uganda,1,77.0,africa,1,0,10,55,0

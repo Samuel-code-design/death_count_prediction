@@ -1,0 +1,254 @@
+,Event,Date,Location,Disease,Death toll (estimate),Is death toll unknown,Death toll lower limit,Death toll upper limit,BC/AD,LatestDate,EarliestDate,Disease cleaned,Country,Europe Affected,Asia Affected,Africa Affected,Oceania Affected,North America Affected,South America Affected
+0,1350 BC plague of Megiddo,1350 BC,"Megiddo, land of Canaan","Amarna letters EA 244, Biridiya, mayor of Megiddo complains to Amenhotep III of his area being ""consumed by death, plague and dust""",Unknown,True,,,BC,1350 ,1350 ,Unknown,Megiddo,False,True,False,False,False,False
+1,Plague of Athens,430–426 BC,"Greece, Libya, Egypt, Ethiopia","Unknown, possibly typhus, typhoid fever or viral hemorrhagic fever","75,000–100,000",False,75000.0,100000.0,BC,426,430,Unknown,Multiple,True,False,True,False,False,False
+2,412 BC epidemic,412 BC,"Greece (Northern Greece, Roman Republic)","Unknown, possibly influenza",Unknown,True,,,BC,412 ,412 ,Unknown,Roman Republic,True,False,False,False,False,False
+3,Antonine Plague,165–180 (possibly up to 190),Roman Empire,"Unknown, possibly smallpox",5–10 million,False,5000000.0,10000000.0,AD,180,165,Unknown,Roman Empire,True,True,True,False,False,False
+4,Jian'an Plague,217,Han Dynasty,"Unknown, possibly typhoid fever or viral hemorrhagic fever",Unknown,True,,,AD,217,217,Unknown,Han Dynasty,False,True,False,False,False,False
+5,Plague of Cyprian,249–262,Europe,"Unknown, possibly smallpox",310000,False,310000.0,310000.0,AD,262,249,Unknown,Multiple,True,False,False,False,False,False
+6,Plague of Justinian (beginning of first plague pandemic),541–549,Europe and West Asia,Bubonic plague,15–100 million,False,15000000.0,100000000.0,AD,549,541,Bubonic plague,Multiple,True,True,False,False,False,False
+7,Roman Plague of 590 (part of first plague pandemic),590,"Rome, Byzantine Empire",Bubonic plague,Unknown,True,,,AD,590,590,Bubonic plague,Byzantine Empire,True,True,True,False,False,False
+8,Plague of Sheroe (part of First plague pandemic),627–628,Bilad al-Sham,Bubonic plague,"25,000+",False,25000.0,,AD,628,627,Bubonic plague,Bilad al-Sham,False,True,False,False,False,False
+9,Plague of Amwas (part of first plague pandemic),638–639,"Byzantine Empire, West Asia, Africa",Bubonic plague,"25,000+",False,25000.0,,AD,639,638,Bubonic plague,Multiple,True,True,True,False,False,False
+10,Plague of 664 (part of first plague pandemic),664–689,British Isles,Bubonic plague,Unknown,True,,,AD,689,664,Bubonic plague,Multiple,True,False,False,False,False,False
+11,Plague of 698–701 (part of first plague pandemic),698–701,"Byzantine Empire, West Asia, Syria, Mesopotamia",Bubonic plague,Unknown,True,,,AD,701,698,Bubonic plague,Multiple,True,True,True,False,False,False
+12,735–737 Japanese smallpox epidemic,735–737,Japan,Smallpox,"2 million (approx. .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄3 of Japanese population)",False,2000000.0,2000000.0,AD,737,735,Smallpox,Japan,False,True,False,False,False,False
+13,Plague of 746–747 (part of first plague pandemic),746–747,"Byzantine Empire, West Asia, Africa",Bubonic plague,Unknown,True,,,AD,747,746,Bubonic plague,Multiple,True,True,True,False,False,False
+14,Black Death (start of the second plague pandemic),1346–1353,Eurasia and North Africa,Bubonic plague Yersinia pestis bacterium,75–200 million (30–60% of European population),False,75000000.0,200000000.0,AD,1353,1346,Bubonic plague,Multiple,True,True,True,False,False,False
+15,Sweating sickness (multiple outbreaks),1485–1551,Britain (England) and later continental Europe,"Unknown, possibly an unknown species of hantavirus","10,000+",False,10000.0,,AD,1551,1485,Unknown,Multiple,True,False,False,False,False,False
+16,1489 Spain typhus epidemic,1489,Spain,Typhus,17000,False,17000.0,17000.0,AD,1489,1489,Typhus,Spain,True,False,False,False,False,False
+17,1510 influenza pandemic,1510,"Asia, North Africa, Europe",Influenza,"Unknown, around 1% of those infected",True,,,AD,1510,1510,Influenza,Multiple,True,True,True,False,False,False
+18,1520 Mexico smallpox epidemic,1519–1520,Mexico,Smallpox,5–8 million (40% of population),False,5000000.0,8000000.0,AD,1520,1519,Smallpox,Mexico,False,False,False,False,True,False
+19,Cocoliztli epidemic of 1545–1548,1545–1548,Mexico,Possibly Salmonella enterica,5–15 million (80% of population),False,5000000.0,15000000.0,AD,1548,1545,Unknown,Mexico,False,False,False,False,True,False
+20,1557 influenza pandemic,1557–1559,"Asia, Africa, Europe, and Americas",Influenza,Unknown,True,,,AD,1559,1557,Influenza,Multiple,True,True,True,False,True,True
+21,1561 Chile smallpox epidemic,1561–1562,Chile,Smallpox,Unknown (20–25% of native population),True,,,AD,1562,1561,Smallpox,Chile,False,False,False,False,False,True
+22,1563 London plague (part of the second plague pandemic),1563–1564,"London, England",Bubonic plague,"20,100+",False,20100.0,,AD,1564,1563,Bubonic plague,United Kingdom,True,False,False,False,False,False
+23,Cocoliztli epidemic of 1576,1576–1580,Mexico,Possibly Salmonella enterica,2–2.5 million (50% of population),False,2000000.0,2000000.0,AD,1580,1576,Unknown,Mexico,False,False,False,False,True,False
+24,1582 Tenerife plague epidemic (part of the second plague pandemic),1582–1583,"Tenerife, Spain",Bubonic plague,"5,000–9,000",False,5000.0,9000.0,AD,1583,1582,Bubonic plague,Spain,True,False,False,False,False,False
+25,1592–1596 Seneca nation measles epidemic,1592–1596,"Seneca nation, North America",Measles,Unknown,True,,,AD,1596,1592,Measles,Multiple,False,False,False,False,True,False
+26,1592–1593 Malta plague epidemic (part of the second plague pandemic),1592–1593,Malta,Bubonic plague,3000,False,3000.0,3000.0,AD,1593,1592,Bubonic plague,Malta,True,False,False,False,False,False
+27,1592–1593 London plague (part of the second plague pandemic),1592–1593,"London, England",Bubonic plague,"19,900+",False,19900.0,,AD,1593,1592,Bubonic plague,United Kingdom,True,False,False,False,False,False
+28,1596–1602 Spain plague epidemic (part of the second plague pandemic),1596–1602,Spain,Bubonic plague,"600,000–700,000",False,600000.0,700000.0,AD,1602,1596,Bubonic plague,Spain,True,False,False,False,False,False
+29,1600–1650 South America malaria epidemic,1600–1650,South America,Malaria,Unknown,True,,,AD,1650,1600,Malaria,Multiple,False,False,False,False,False,True
+30,1603 London plague epidemic (part of the second plague pandemic),1603,"London, England",Bubonic plague,40000,False,40000.0,40000.0,AD,1603,1603,Bubonic plague,United Kingdom,True,False,False,False,False,False
+31,1616 New England infections epidemic,1616–1620,"Southern New England, British North America, especially the Wampanoag people","Unknown, possibly leptospirosis with Weil syndrome. Classic explanations include yellow fever, bubonic plague, influenza, smallpox, chickenpox, typhus, and syndemic infection of hepatitis B and hepatitis D",Unknown (estimated 30–90% of population),True,,,AD,1620,1616,Unknown,Multiple,False,False,False,False,True,False
+32,1629–1631 Italian plague (part of the second plague pandemic),1629–1631,Italy,Bubonic plague,1 million,False,1000000.0,1000000.0,AD,1631,1629,Bubonic plague,Italy,True,False,False,False,False,False
+33,1632–1635 Augsburg plague epidemic (part of the second plague pandemic),1632–1635,"Augsburg, Germany",Bubonic plague,13712,False,13712.0,13712.0,AD,1635,1632,Bubonic plague,Germany,True,False,False,False,False,False
+34,Massachusetts smallpox epidemic,1633–1634,"Massachusetts Bay Colony, Thirteen Colonies",Smallpox,1000,False,1000.0,1000.0,AD,1634,1633,Smallpox,United States,False,False,False,False,True,False
+35,1634–1640 Wyandot people epidemic,1634–1640,"Wyandot people, North America",Smallpox and Influenza,"15,000–25,000",False,15000.0,25000.0,AD,1640,1634,Multiple,Multiple,False,False,False,False,True,False
+36,1637 London plague epidemic (part of the second plague pandemic),1636–1637,"London and Westminster, England",Bubonic plague,10400,False,10400.0,10400.0,AD,1637,1636,Bubonic plague,United Kingdom,True,False,False,False,False,False
+37,Great Plague in the late Ming dynasty (part of the second plague pandemic),1633–1644,China,Bubonic plague,"200,000+",False,200000.0,,AD,1644,1633,Bubonic plague,China,False,True,False,False,False,False
+38,Great Plague of Seville (part of the second plague pandemic),1647–1652,Spain,Bubonic plague,500000,False,500000.0,500000.0,AD,1652,1647,Bubonic plague,Spain,True,False,False,False,False,False
+39,1648 Central America yellow fever epidemic,1648,Central America,Yellow fever,Unknown,True,,,AD,1648,1648,Yellow fever,Multiple,False,False,False,False,True,False
+40,Naples Plague (part of the second plague pandemic),1656–1658,Italy,Bubonic plague,1250000,False,1250000.0,1250000.0,AD,1658,1656,Bubonic plague,Italy,True,False,False,False,False,False
+41,1663–1664 Amsterdam plague epidemic (part of the second plague pandemic),1663–1664,"Amsterdam, Netherlands",Bubonic plague,24148,False,24148.0,24148.0,AD,1664,1663,Bubonic plague,Netherlands,True,False,False,False,False,False
+42,Great Plague of London (part of the second plague pandemic),1665–1666,England,Bubonic plague,100000,False,100000.0,100000.0,AD,1666,1665,Bubonic plague,United Kingdom,True,False,False,False,False,False
+43,1668 France plague (part of the second plague pandemic),1668,France,Bubonic plague,40000,False,40000.0,40000.0,AD,1668,1668,Bubonic plague,France,True,False,False,False,False,False
+44,1675–1676 Malta plague epidemic (part of the second plague pandemic),1675–1676,Malta,Bubonic plague,11300,False,11300.0,11300.0,AD,1676,1675,Bubonic plague,Malta,True,False,False,False,False,False
+45,1676–1685 Spain plague (part of the second plague pandemic),1676–1685,Spain,Bubonic plague,Unknown,True,,,AD,1685,1676,Bubonic plague,Spain,True,False,False,False,False,False
+46,1677–1678 Boston smallpox epidemic,1677–1678,"Massachusetts Bay Colony, British North America",Smallpox,"750–1,000",False,750.0,1000.0,AD,1678,1677,Smallpox,United States,False,False,False,False,True,False
+47,Great Plague of Vienna (part of the second plague pandemic),1679,"Vienna, Austria",Bubonic plague,76000,False,76000.0,76000.0,AD,1679,1679,Bubonic plague,Austria,True,False,False,False,False,False
+48,1681 Prague plague epidemic (part of the second plague pandemic),1681,"Prague, Czech Kingdom",Bubonic plague,83000,False,83000.0,83000.0,AD,1681,1681,Bubonic plague,Czechia,True,False,False,False,False,False
+49,1687 South Africa influenza outbreak,1687,South Africa,"Unknown, possibly influenza",Unknown,True,,,AD,1687,1687,Unknown,Multiple,False,False,True,False,False,False
+50,1693 Boston yellow fever epidemic,1693,"Boston, Massachusetts Bay Colony, British North America",Yellow fever,"3,100+",False,3100.0,,AD,1693,1693,Yellow fever,United States,False,False,False,False,True,False
+51,1699 Charleston and Philadelphia yellow fever epidemic,1699,"Charleston and Philadelphia, British North America",Yellow fever,"520 (300 in Charleston, 220 in Philadelphia)",False,520.0,520.0,AD,1699,1699,Yellow fever,Multiple,False,False,False,False,True,False
+52,1702 New York City yellow fever epidemic,1702,"New York City, British North America",Yellow fever,500,False,500.0,500.0,AD,1702,1702,Yellow fever,Multiple,False,False,False,False,True,False
+53,1702–1703 St. Lawrence Valley smallpox epidemic,1702–1703,"New France, Canada",Smallpox,1300,False,1300.0,1300.0,AD,1703,1702,Smallpox,Canada,False,False,False,False,True,False
+54,1707–1709 Iceland smallpox epidemic,1707–1709,Iceland,Smallpox,"18,000+ (36% of population)",False,18000.0,,AD,1709,1707,Smallpox,Iceland,True,False,False,False,False,False
+55,Great Northern War plague outbreak (part of the second plague pandemic),1710–1712,"Denmark, Sweden, Lithuania",Bubonic plague,164000,False,164000.0,164000.0,AD,1712,1710,Bubonic plague,Multiple,True,False,False,False,False,False
+56,1713–1715 North America measles epidemic,1713–1715,"Thirteen Colonies and New France, Canada",Measles,Unknown,True,,,AD,1715,1713,Measles,Multiple,False,False,False,False,True,False
+57,Great Plague of Marseille (part of the second plague pandemic),1720–1722,France,Bubonic plague,"100,000+",False,100000.0,,AD,1722,1720,Bubonic plague,France,True,False,False,False,False,False
+58,1721 Boston smallpox outbreak,1721–1722,Massachusetts Bay Colony,Smallpox,844,False,844.0,844.0,AD,1722,1721,Smallpox,United States,False,False,False,False,True,False
+59,1730 Cádiz yellow fever epidemic,1730,"Cádiz, Spain",Yellow fever,2200,False,2200.0,2200.0,AD,1730,1730,Yellow fever,Spain,True,False,False,False,False,False
+60,1732–1733 Thirteen Colonies influenza epidemic,1732–1733,Thirteen Colonies,Influenza,Unknown,True,,,AD,1733,1732,Influenza,United States,False,False,False,False,True,False
+61,1733 New France smallpox epidemic,1733,"New France, Canada",Smallpox,Unknown,True,,,AD,1733,1733,Smallpox,Canada,False,False,False,False,True,False
+62,1735–1741 diphtheria epidemic,1735–1741,"New England, Province of New York, Province of New Jersey, British North America",Diphtheria,20000,False,20000.0,20000.0,AD,1741,1735,Diphtheria,Multiple,False,False,False,False,True,False
+63,Great Plague of 1738 (part of the second plague pandemic),1738,Balkans,Bubonic plague,50000,False,50000.0,50000.0,AD,1738,1738,Bubonic plague,Multiple,True,False,False,False,False,False
+64,1738–1739 North Carolina smallpox epidemic,1738–1739,"Province of Carolina, Thirteen Colonies",Smallpox,"7,700–11,700",False,7700.0,11700.0,AD,1739,1738,Smallpox,United States,False,False,False,False,True,False
+65,1741 Cartagena yellow fever epidemic,1741,"Cartagena, Colombia",Yellow fever,20000,False,20000.0,20000.0,AD,1741,1741,Yellow fever,Colombia,False,False,False,False,False,True
+66,1743 Sicily plague epidemic (part of the second plague pandemic),1743,"Messina, Sicily, Italy",Bubonic plague,"40,000–50,000",False,40000.0,50000.0,AD,1743,1743,Bubonic plague,Italy,True,False,False,False,False,False
+67,1759 North America measles outbreak,1759,North America,Measles,Unknown,True,,,AD,1759,1759,Measles,Multiple,False,False,False,False,True,False
+68,1760 Charleston smallpox epidemic,1760,"Charleston, British North America",Smallpox,730–940,False,730.0,940.0,AD,1760,1760,Smallpox,Multiple,False,False,False,False,True,False
+69,1762 Havana yellow fever epidemic,1762,"Havana, Cuba",Yellow fever,8000,False,8000.0,8000.0,AD,1762,1762,Yellow fever,Cuba,False,False,False,False,True,False
+70,1763 Pittsburgh area smallpox outbreak,1763,"North America, present-day Pittsburgh area",Smallpox,Unknown,True,,,AD,1763,1763,Smallpox,Multiple,False,False,False,False,True,False
+71,1770–1772 Russian plague (part of the second plague pandemic),1770–1772,Russia,Bubonic plague,50000,False,50000.0,50000.0,AD,1772,1770,Bubonic plague,Russia,True,True,False,False,False,False
+72,1772 North America measles epidemic,1772,North America,Measles,1080,False,1080.0,1080.0,AD,1772,1772,Measles,Multiple,False,False,False,False,True,False
+73,1772–1773 Persian Plague (part of the second plague pandemic),1772–1773,Persia,Bubonic plague,2 million,False,2000000.0,2000000.0,AD,1773,1772,Bubonic plague,Persia,False,True,False,False,False,False
+74,1775–1776 England influenza outbreak,1775–1776,England,Influenza,Unknown,True,,,AD,1776,1775,Influenza,United Kingdom,True,False,False,False,False,False
+75,1775–1782 North American smallpox epidemic,1775–1782,Native populations in what is now the Pacific Northwest of the United States,Smallpox,"11,000+",False,11000.0,,AD,1782,1775,Smallpox,United States,False,False,False,False,True,False
+76,1778 Spain dengue fever outbreak,1778,Spain,Dengue fever,Unknown,True,,,AD,1778,1778,Dengue fever,Spain,True,False,False,False,False,False
+77,1788 Pueblo Indians smallpox epidemic,1788,Pueblo Indians in northern New Spain (what is now the Southwestern United States),Smallpox,Unknown,True,,,AD,1788,1788,Smallpox,United States,False,True,False,False,True,False
+78,1789–1790 New South Wales smallpox epidemic,1789–1790,"New South Wales, Australia",Smallpox,Unknown (50–70% of native population),True,,,AD,1790,1789,Smallpox,Australia,False,False,False,True,False,False
+79,1793 Philadelphia yellow fever epidemic,1793,"Philadelphia, United States",Yellow fever,"5,000+",False,5000.0,,AD,1793,1793,Yellow fever,United States,False,False,False,False,True,False
+80,1800–1803 Spain yellow fever epidemic,1800–1803,Spain,Yellow fever,"60,000+",False,60000.0,,AD,1803,1800,Yellow fever,Spain,True,False,False,False,False,False
+81,1801 Ottoman Empire and Egypt bubonic plague epidemic,1801,"Ottoman Empire, Egypt",Bubonic plague,Unknown,True,,,AD,1801,1801,Bubonic plague,Multiple,True,True,True,False,False,False
+82,1802–1803 Saint-Domingue yellow fever epidemic,1802–1803,Saint-Domingue,Yellow fever,"29,000–55,000",False,29000.0,55000.0,AD,1803,1802,Yellow fever,Saint-Domingue,False,False,False,False,True,False
+83,1812 Russia typhus epidemic,1812,Russia,Typhus,300000,False,300000.0,300000.0,AD,1812,1812,Typhus,Russia,True,True,False,False,False,False
+84,1812–1819 Ottoman plague epidemic (part of the second plague pandemic),1812–1819,Ottoman Empire,Bubonic plague,"300,000+",False,300000.0,,AD,1819,1812,Bubonic plague,Ottoman Empire,True,True,False,False,False,False
+85,1813–1814 Malta plague epidemic (part of the second plague pandemic),1813–1814,Malta,Bubonic plague,4500,False,4500.0,4500.0,AD,1814,1813,Bubonic plague,Malta,True,False,False,False,False,False
+86,Caragea's plague (part of the second plague pandemic),1813,Romania,Bubonic plague,60000,False,60000.0,60000.0,AD,1813,1813,Bubonic plague,Romania,True,False,False,False,False,False
+87,1817–1819 Ireland typhus epidemic,1817–1819,Ireland,Typhus,65000,False,65000.0,65000.0,AD,1819,1817,Typhus,Ireland,True,False,False,False,False,False
+88,First cholera pandemic,1817–1824,"Asia, Europe",Cholera,"100,000+",False,100000.0,,AD,1824,1817,Cholera,Multiple,True,True,False,False,False,False
+89,1820 Savannah yellow fever epidemic,1820,"Savannah, Georgia, United States",Yellow fever,700,False,700.0,700.0,AD,1820,1820,Yellow fever,United States,False,False,False,False,True,False
+90,1821 Barcelona yellow fever epidemic,1821,"Barcelona, Spain",Yellow fever,"5,000–20,000",False,5000.0,20000.0,AD,1821,1821,Yellow fever,Spain,True,False,False,False,False,False
+91,Second cholera pandemic,1826–1837,"Asia, Europe, North America",Cholera,"100,000+",False,100000.0,,AD,1837,1826,Cholera,Multiple,True,True,False,False,True,False
+92,1828–1829 New South Wales smallpox epidemic,1828–1829,"New South Wales, Australia",Smallpox,19000,False,19000.0,19000.0,AD,1829,1828,Smallpox,Australia,False,False,False,True,False,False
+93,Groningen epidemic,1829,Netherlands,Malaria,2800,False,2800.0,2800.0,AD,1829,1829,Malaria,Netherlands,True,False,False,False,False,False
+94,1829–1833 Pacific Northwest malaria epidemic,1829–1833,"Pacific Northwest, United States","Malaria, possibly other diseases too",150000,False,150000.0,150000.0,AD,1833,1829,Multiple,United States,False,False,False,False,True,False
+95,1829–1835 Iran plague outbreak,1829–1835,Iran,Bubonic plague,Unknown,True,,,AD,1835,1829,Bubonic plague,Iran,False,True,False,False,False,False
+96,1834–1836 Egypt plague epidemic,1834–1836,Egypt,Bubonic plague,Unknown,True,,,AD,1836,1834,Bubonic plague,Egypt,False,False,True,False,False,False
+97,1837 Great Plains smallpox epidemic,1837–1838,"Great Plains, United States and Canada",Smallpox,"17,000+",False,17000.0,,AD,1838,1837,Smallpox,Multiple,False,False,False,False,True,False
+98,1841 Southern United States yellow fever epidemic,1841,Southern United States (especially Louisiana and Florida),Yellow fever,3498,False,3498.0,3498.0,AD,1841,1841,Yellow fever,United States,False,False,False,False,True,False
+99,1847 North American typhus epidemic,1847–1848,Canada,Typhus,"20,000+",False,20000.0,,AD,1848,1847,Typhus,Canada,False,False,False,False,True,False
+100,1847 Southern United States yellow fever epidemic,1847,Southern United States (especially New Orleans),Yellow fever,3400,False,3400.0,3400.0,AD,1847,1847,Yellow fever,United States,False,False,False,False,True,False
+101,1847–1848 influenza epidemic,1847–1848,Worldwide,Influenza,Unknown,True,,,AD,1848,1847,Influenza,Multiple,True,True,True,True,True,True
+102,1848–1849 Hawaii epidemic of infections,1848–1849,Hawaiian Kingdom,"Measles, whooping cough, dysentery and influenza",10000,False,10000.0,10000.0,AD,1849,1848,Multiple,Hawaiian Kingdom,False,False,False,True,False,False
+103,1853 New Orleans yellow fever epidemic,1853,"New Orleans, United States",Yellow fever,7970,False,7970.0,7970.0,AD,1853,1853,Yellow fever,United States,False,False,False,False,True,False
+104,Third cholera pandemic,1846–1860,Worldwide,Cholera,1 million+,False,1000000.0,,AD,1860,1846,Cholera,Multiple,True,True,True,True,True,True
+105,1853 Ottoman Empire plague epidemic,1853,Ottoman Empire,Bubonic plague,Unknown,True,,,AD,1853,1853,Bubonic plague,Ottoman Empire,True,True,False,False,False,False
+106,1853 Copenhagen cholera outbreak,1853,"Copenhagen, Denmark",Cholera,4737,False,4737.0,4737.0,AD,1853,1853,Cholera,Denmark,True,False,False,False,False,False
+107,1854 Broad Street cholera outbreak,1854,"London, England",Cholera,616,False,616.0,616.0,AD,1854,1854,Cholera,United Kingdom,True,False,False,False,False,False
+108,1855 Norfolk yellow fever epidemic,1855,"Norfolk and Portsmouth, England",Yellow fever,"3,000 (2,000 in Norfolk, 1,000 in Portsmouth)",False,3000.0,3000.0,AD,1855,1855,Yellow fever,United Kingdom,True,False,False,False,False,False
+109,Third plague pandemic,1855–1960,Worldwide,Bubonic plague,12–15 million (India and China),False,12000000.0,15000000.0,AD,1960,1855,Bubonic plague,Multiple,True,True,True,True,True,True
+110,1855–1857 Montevideo yellow fever epidemic,1855–1857,"Montevideo, Uruguay",Yellow fever,"3,400 (first wave; 900, second wave; 2,500)",False,3400.0,3400.0,AD,1857,1855,Yellow fever,Uruguay,False,False,False,False,False,True
+111,1857 Lisbon yellow fever epidemic,1857,"Lisbon, Portugal",Yellow fever,6000,False,6000.0,6000.0,AD,1857,1857,Yellow fever,Portugal,True,False,False,False,False,False
+112,1857 Victoria smallpox epidemic,1857,"Victoria, Australia",Smallpox,Unknown,True,,,AD,1857,1857,Smallpox,Australia,False,False,False,True,False,False
+113,1857–1859 Europe and the Americas influenza epidemic,1857–1859,"Europe, North America, South America",Influenza,Unknown,True,,,AD,1859,1857,Influenza,Multiple,True,False,False,False,True,True
+114,1862 Pacific Northwest smallpox epidemic,1862–1863,"Pacific Northwest, Canada and United States",Smallpox,"20,000+",False,20000.0,,AD,1863,1862,Smallpox,Multiple,False,False,False,False,True,False
+115,1861–1865 United States typhoid fever epidemic,1861–1865,United States,Typhoid fever,80000,False,80000.0,80000.0,AD,1865,1861,Typhoid fever,United States,False,False,False,False,True,False
+116,Fourth cholera pandemic,1863–1875,Middle East,Cholera,600000,False,600000.0,600000.0,AD,1875,1863,Cholera,Multiple,False,True,False,False,False,False
+117,1867 Sydney measles epidemic,1867,"Sydney, Australia",Measles,748,False,748.0,748.0,AD,1867,1867,Measles,Australia,False,False,False,True,False,False
+118,1871 Buenos Aires yellow fever epidemic,1871,"Buenos Aires, Argentina",Yellow fever,"13,500–26,200",False,13500.0,26200.0,AD,1871,1871,Yellow fever,Argentina,False,False,False,False,False,True
+119,1870–1875 Europe smallpox epidemic,1870–1875,Europe,Smallpox,500000,False,500000.0,500000.0,AD,1875,1870,Smallpox,Multiple,True,False,False,False,False,False
+120,1875 Fiji measles outbreak,1875,Fiji,Measles,40000,False,40000.0,40000.0,AD,1875,1875,Measles,Fiji,False,False,False,True,False,False
+121,1875–1876 Australia scarlet fever epidemic,1875–1876,Australia,Scarlet fever,8000,False,8000.0,8000.0,AD,1876,1875,Scarlet fever,Australia,False,False,False,True,False,False
+122,1876 Ottoman Empire plague epidemic,1876,Ottoman Empire,Bubonic plague,20000,False,20000.0,20000.0,AD,1876,1876,Bubonic plague,Ottoman Empire,True,True,False,False,False,False
+123,1878 New Orleans yellow fever epidemic,1878,"New Orleans, United States",Yellow fever,4046,False,4046.0,4046.0,AD,1878,1878,Yellow fever,United States,False,False,False,False,True,False
+124,1878 Mississippi Valley yellow fever epidemic,1878,"Mississippi Valley, United States",Yellow fever,13000,False,13000.0,13000.0,AD,1878,1878,Yellow fever,United States,False,False,False,False,True,False
+125,Fifth cholera pandemic,1881–1896,"Asia, Africa, Europe, South America",Cholera,298600,False,298600.0,298600.0,AD,1896,1881,Cholera,Multiple,True,True,True,False,False,True
+126,1885 Montreal smallpox epidemic,1885,"Montreal, Canada",Smallpox,3164,False,3164.0,3164.0,AD,1885,1885,Smallpox,Canada,False,False,False,False,True,False
+127,1889–1890 pandemic,1889–1890,Worldwide,Influenza or Human coronavirus OC43 / HCoV-OC43[15][168] (disputed),1 million,False,1000000.0,1000000.0,AD,1890,1889,Disputed,Multiple,True,True,True,True,True,True
+128,1894 Hong Kong plague (part of the third plague pandemic),1894–1929,Hong Kong,Bubonic plague,"20,000+",False,20000.0,,AD,1929,1894,Bubonic plague,Hong Kong,False,True,False,False,False,False
+129,Bombay plague epidemic (part of the third plague pandemic),1896–1905,"Bombay, India",Bubonic plague,20788,False,20788.0,20788.0,AD,1905,1896,Bubonic plague,India,False,True,False,False,False,False
+130,1896–1906 Congo Basin African trypanosomiasis epidemic,1896–1906,Congo Basin,African trypanosomiasis,500000,False,500000.0,500000.0,AD,1906,1896,African trypanosomiasis,Multiple,False,False,True,False,False,False
+131,1899 Porto plague outbreak (part of the third plague pandemic),1899,"Porto, Portugal",Bubonic plague,132,False,132.0,132.0,AD,1899,1899,Bubonic plague,Portugal,True,False,False,False,False,False
+132,Sixth cholera pandemic,1899–1923,"Europe, Asia, Africa",Cholera,"800,000+",False,800000.0,,AD,1923,1899,Cholera,Multiple,True,True,True,False,False,False
+133,San Francisco plague of 1900–1904 (part of the third plague pandemic),1900–1904,"San Francisco, United States",Bubonic plague,119,False,119.0,119.0,AD,1904,1900,Bubonic plague,United States,False,False,False,False,True,False
+134,1900 Sydney bubonic plague epidemic (part of the third plague pandemic),1900,Australia,Bubonic plague,103,False,103.0,103.0,AD,1900,1900,Bubonic plague,Australia,False,False,False,True,False,False
+135,1900–1920 Uganda African trypanosomiasis epidemic,1900–1920,Uganda,African trypanosomiasis,"200,000–300,000",False,200000.0,300000.0,AD,1920,1900,African trypanosomiasis,Uganda,False,False,True,False,False,False
+136,Papua New Guinea kuru epidemic,1901–2009,Papua New Guinea,Kuru,"2,700–3,000+",False,2700.0,,AD,2009,1901,Kuru,Papua New Guinea,False,False,False,True,False,False
+137,1903 Fremantle plague epidemic (part of the third plague pandemic),1903,"Fremantle, Western Australia",Bubonic plague,4,False,4.0,4.0,AD,1903,1903,Bubonic plague,Australia,False,False,False,True,False,False
+138,1906 malaria outbreak in Ceylon,1906–1936,Ceylon,Malaria,80000,False,80000.0,80000.0,AD,1936,1906,Malaria,Sri Lanka,False,True,False,False,False,False
+139,Manchurian plague (part of the third plague pandemic),1910–1911,China,Pneumonic plague,60000,False,60000.0,60000.0,AD,1911,1910,Pneumonic plague,China,False,True,False,False,False,False
+140,1915 encephalitis lethargica pandemic,1915–1926,Worldwide,Encephalitis lethargica,500000,False,500000.0,500000.0,AD,1926,1915,Encephalitis lethargica,Multiple,True,True,True,True,True,True
+141,1916 United States polio epidemic,1916,United States,Poliomyelitis,7130,False,7130.0,7130.0,AD,1916,1916,Poliomyelitis,United States,False,False,False,False,True,False
+142,1918 influenza pandemic ('Spanish flu'),1918–1920,Worldwide,Influenza A virus subtype H1N1 H1N1 virus,17–100 million,False,17000000.0,100000000.0,AD,1920,1918,Influenza,Multiple,True,True,True,True,True,True
+143,1918–1922 Russia typhus epidemic,1918–1922,Russia,Typhus,2–3 million,False,2000000.0,3000000.0,AD,1922,1918,Typhus,Russia,True,True,False,False,False,False
+144,1924 Los Angeles pneumonic plague outbreak,1924,"Los Angeles, United States",Pneumonic plague,30,False,30.0,30.0,AD,1924,1924,Pneumonic plague,United States,False,False,False,False,True,False
+145,1924–1925 Minnesota smallpox epidemic,1924–1925,"Minnesota, United States",Smallpox,500,False,500.0,500.0,AD,1925,1924,Smallpox,United States,False,False,False,False,True,False
+146,1927 Montreal typhoid fever epidemic,1927,"Montreal, Canada",Typhoid fever,538,False,538.0,538.0,AD,1927,1927,Typhoid fever,Canada,False,False,False,False,True,False
+147,1929–1930 psittacosis pandemic,1929–1930,Worldwide,Psittacosis,100+,False,100.0,,AD,1930,1929,Psittacosis,Multiple,True,True,True,True,True,True
+148,Croydon typhoid outbreak of 1937,1937,"Croydon, United Kingdom",Typhoid fever,43,False,43.0,43.0,AD,1937,1937,Typhoid fever,United Kingdom,True,False,False,False,False,False
+149,1937 Australia polio epidemic,1937,Australia,Poliomyelitis,Unknown,True,,,AD,1937,1937,Poliomyelitis,Australia,False,False,False,True,False,False
+150,1940 Sudan yellow fever epidemic,1940,Sudan,Yellow fever,1627,False,1627.0,1627.0,AD,1940,1940,Yellow fever,Sudan,False,False,True,False,False,False
+151,1942–1944 Egypt malaria epidemic,1942–1944,Egypt,Malaria,Unknown,True,,,AD,1944,1942,Malaria,Egypt,False,False,True,False,False,False
+152,1946 Egypt relapsing fever epidemic,1946,Egypt,Relapsing fever,Unknown,True,,,AD,1946,1946,Relapsing fever,Egypt,False,False,True,False,False,False
+153,1947 Egypt cholera epidemic,1947,Egypt,Cholera,10277,False,10277.0,10277.0,AD,1947,1947,Cholera,Egypt,False,False,True,False,False,False
+154,1948–1952 United States polio epidemic,1948–1952,United States,Poliomyelitis,9000,False,9000.0,9000.0,AD,1952,1948,Poliomyelitis,United States,False,False,False,False,True,False
+155,1957–1958 influenza pandemic ('Asian flu'),1957–1958,Worldwide,Influenza A virus subtype H2N2,1–4 million,False,1000000.0,4000000.0,AD,1958,1957,Influenza,Multiple,True,True,True,True,True,True
+156,1960–1962 Ethiopia yellow fever epidemic,1960–1962,Ethiopia,Yellow fever,30000,False,30000.0,30000.0,AD,1962,1960,Yellow fever,Ethiopia,False,False,True,False,False,False
+157,Seventh cholera pandemic,1961–1975,Worldwide,Cholera (El Tor strain),"36,000[citation needed]",False,36000.0,36000.0,AD,1975,1961,Cholera,Multiple,True,True,True,True,True,True
+158,Hong Kong flu,1968–1970,Worldwide,Influenza A virus subtype H3N2 H3N2 virus,1–4 million,False,1000000.0,4000000.0,AD,1970,1968,Influenza,Multiple,True,True,True,True,True,True
+159,1971 Staphorst polio epidemic,1971,"Staphorst, Netherlands",Poliomyelitis,5,False,5.0,5.0,AD,1971,1971,Poliomyelitis,Netherlands,True,False,False,False,False,False
+160,1972 Yugoslav smallpox outbreak,1972,Yugoslavia,Smallpox,35,False,35.0,35.0,AD,1972,1972,Smallpox,Yugoslavia,True,False,False,False,False,False
+161,London flu,1972–1973,United States,Influenza A virus subtype H3N2,1027,False,1027.0,1027.0,AD,1973,1972,Influenza,United States,False,False,False,False,True,False
+162,1973 Italy cholera epidemic,1973,Italy,Cholera (El Tor strain),24,False,24.0,24.0,AD,1973,1973,Cholera,Italy,True,False,False,False,False,False
+163,1974 smallpox epidemic in India,1974,India,Smallpox,15000,False,15000.0,15000.0,AD,1974,1974,Smallpox,India,False,True,False,False,False,False
+164,1977 Russian flu,1977–1979,Worldwide,Influenza A virus subtype H1N1,700000,False,700000.0,700000.0,AD,1979,1977,Influenza,Multiple,True,True,True,True,True,True
+165,Sverdlovsk anthrax leak,1979,Russia,Anthrax,105,False,105.0,105.0,AD,1979,1979,Anthrax,Russia,True,True,False,False,False,False
+166,HIV/AIDS pandemic,1981–present,Worldwide,HIV/AIDS Human immunodeficiency virus,42 million (as of 2023,False,42000000.0,42000000.0,AD,2023,1981,HIV/AIDS,Multiple,True,True,True,True,True,True
+167,1984 Western Sahara plague,1984,Western Sahara,Bubonic plague,64,False,64.0,64.0,AD,1984,1984,Bubonic plague,Western Sahara,False,False,True,False,False,False
+168,1986 Oju yellow fever epidemic,1986,"Oju, Nigeria",Yellow fever,"5,600+",False,5600.0,,AD,1986,1986,Yellow fever,Nigeria,False,False,True,False,False,False
+169,1987 Mali yellow fever epidemic,1987,Mali,Yellow fever,145,False,145.0,145.0,AD,1987,1987,Yellow fever,Mali,False,False,True,False,False,False
+170,1988 Shanghai hepatitis A epidemic,1988,"Shanghai, China",Hepatitis A,31–47,False,31.0,47.0,AD,1988,1988,Hepatitis A,China,False,True,False,False,False,False
+171,1991 Bangladesh cholera epidemic,1991,Bangladesh,Cholera,"8,410–9,432",False,8410.0,9432.0,AD,1991,1991,Cholera,Bangladesh,False,True,False,False,False,False
+172,1991 Latin America cholera epidemic,1991–1993,"Peru, Chile, Bolivia, Ecuador, Colombia, Mexico, El Salvador, Guatemala",Cholera,8000,False,8000.0,8000.0,AD,1993,1991,Cholera,Multiple,False,False,False,False,True,True
+173,1994 plague in India,1994,India,Bubonic plague and Pneumonic plague,56,False,56.0,56.0,AD,1994,1994,Multiple,India,False,True,False,False,False,False
+174,United Kingdom BSE outbreak,1996–2001,United Kingdom,Variant Creutzfeldt–Jakob disease / vCJD,178,False,178.0,178.0,AD,2001,1996,Variant Creutzfeldt–Jakob disease,United Kingdom,True,False,False,False,False,False
+175,1996 West Africa meningitis epidemic,1996,West Africa,Meningitis,10000,False,10000.0,10000.0,AD,1996,1996,Meningitis,Multiple,False,False,True,False,False,False
+176,1998–1999 Malaysia Nipah virus outbreak,1998–1999,Malaysia,Nipah virus infection,105,False,105.0,105.0,AD,1999,1998,Nipah virus infection,Malaysia,False,True,False,False,False,False
+177,1998–2000 Democratic Republic of the Congo Marburg virus outbreak,1998–2000,Democratic Republic of the Congo,Marburg virus,128,False,128.0,128.0,AD,2000,1998,Marburg virus,Democratic Republic of the Congo,False,False,True,False,False,False
+178,2000 Central America dengue epidemic,2000,Central America,Dengue fever,40+,False,40.0,,AD,2000,2000,Dengue fever,Multiple,False,False,False,False,True,False
+179,2001 Nigeria cholera epidemic,2001,Nigeria,Cholera,400+,False,400.0,,AD,2001,2001,Cholera,Nigeria,False,False,True,False,False,False
+180,2001 South Africa cholera epidemic,2001,South Africa,Cholera,139,False,139.0,139.0,AD,2001,2001,Cholera,Multiple,False,False,True,False,False,False
+181,2002–2004 SARS outbreak,2002–2004,Worldwide,Severe acute respiratory syndrome / SARS,774,False,774.0,774.0,AD,2004,2002,SARS,Multiple,True,True,True,True,True,True
+182,2003–2019 Asia and Egypt avian influenza epidemic,2003–2019,"China, Southeast Asia and Egypt",Influenza A virus subtype H5N1,455,False,455.0,455.0,AD,2019,2003,Influenza,Multiple,False,True,True,False,False,False
+183,2004 Indonesia dengue epidemic,2004,Indonesia,Dengue fever,658,False,658.0,658.0,AD,2004,2004,Dengue fever,Indonesia,False,True,False,False,False,False
+184,2004 Sudan Ebola outbreak,2004,Sudan,Ebola,7,False,7.0,7.0,AD,2004,2004,Ebola,Sudan,False,False,True,False,False,False
+185,2004–2005 Angola Marburg virus outbreak,2004–2005,Angola,Marburg virus,227,False,227.0,227.0,AD,2005,2004,Marburg virus,Angola,False,False,True,False,False,False
+186,2005 dengue outbreak in Singapore,2005,Singapore,Dengue fever,27,False,27.0,27.0,AD,2005,2005,Dengue fever,Singapore,False,True,False,False,False,False
+187,2006 Luanda cholera epidemic,2006,"Luanda, Angola",Cholera,"1,200+",False,1200.0,,AD,2006,2006,Cholera,Angola,False,False,True,False,False,False
+188,2006 Ituri Province plague epidemic,2006,"Ituri Province, Democratic Republic of the Congo",Bubonic plague,61,False,61.0,61.0,AD,2006,2006,Bubonic plague,Democratic Republic of the Congo,False,False,True,False,False,False
+189,2006 India malaria outbreak,2006,India,Malaria,17,False,17.0,17.0,AD,2006,2006,Malaria,India,False,True,False,False,False,False
+190,2006 dengue outbreak in India,2006,India,Dengue fever,50+,False,50.0,,AD,2006,2006,Dengue fever,India,False,True,False,False,False,False
+191,2006 dengue outbreak in Pakistan,2006,Pakistan,Dengue fever,50+,False,50.0,,AD,2006,2006,Dengue fever,Pakistan,False,True,False,False,False,False
+192,2006 Philippines dengue epidemic,2006,Philippines,Dengue fever,1000,False,1000.0,1000.0,AD,2006,2006,Dengue fever,Philippines,False,True,False,False,False,False
+193,2006–2007 East Africa Rift Valley fever outbreak,2006–2007,East Africa,Rift Valley fever,394,False,394.0,394.0,AD,2007,2006,Rift Valley fever,Multiple,False,False,True,False,False,False
+194,Mweka Ebola epidemic,2007,Democratic Republic of the Congo,Ebola,187,False,187.0,187.0,AD,2007,2007,Ebola,Democratic Republic of the Congo,False,False,True,False,False,False
+195,2007 Ethiopia cholera epidemic,2007,Ethiopia,Cholera,684,False,684.0,684.0,AD,2007,2007,Cholera,Ethiopia,False,False,True,False,False,False
+196,2007 Iraq cholera outbreak,2007,Iraq,Cholera,10,False,10.0,10.0,AD,2007,2007,Cholera,Iraq,False,True,False,False,False,False
+197,"2007 Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic",2007,"Puerto Rico, Dominican Republic, Mexico",Dengue fever,183,False,183.0,183.0,AD,2007,2007,Dengue fever,Multiple,False,False,False,False,True,False
+198,2007 Uganda Ebola outbreak,2007,Uganda,Ebola,37,False,37.0,37.0,AD,2007,2007,Ebola,Uganda,False,False,True,False,False,False
+199,2007 Netherlands Q-fever epidemic,2007–2018,Netherlands,Q-fever,95,False,95.0,95.0,AD,2018,2007,Q-fever,Netherlands,True,False,False,False,False,False
+200,2008 Brazil dengue epidemic,2008,Brazil,Dengue fever,67,False,67.0,67.0,AD,2008,2008,Dengue fever,Brazil,False,False,False,False,False,True
+201,2008 Cambodia dengue epidemic,2008,Cambodia,Dengue fever,407,False,407.0,407.0,AD,2008,2008,Dengue fever,Cambodia,False,True,False,False,False,False
+202,2008 Chad cholera epidemic,2008,Chad,Cholera,123,False,123.0,123.0,AD,2008,2008,Cholera,Chad,False,False,True,False,False,False
+203,"2008–2017 China hand, foot, and mouth disease epidemic",2008–2017,China,"Hand, foot, and mouth disease","3,322+",False,3322.0,,AD,2017,2008,"Hand, foot, and mouth disease",China,False,True,False,False,False,False
+204,2008 India cholera epidemic,2008,India,Cholera,115,False,115.0,115.0,AD,2008,2008,Cholera,India,False,True,False,False,False,False
+205,2008 Madagascar plague outbreak,2008,Madagascar,Bubonic plague,18+,False,18.0,,AD,2008,2008,Bubonic plague,Madagascar,False,False,True,False,False,False
+206,2008 Philippines dengue epidemic,2008,Philippines,Dengue fever,172,False,172.0,172.0,AD,2008,2008,Dengue fever,Philippines,False,True,False,False,False,False
+207,2008 Zimbabwean cholera outbreak,2008–2009,Zimbabwe,Cholera,4293,False,4293.0,4293.0,AD,2009,2008,Cholera,Zimbabwe,False,False,True,False,False,False
+208,2009 Bolivian dengue fever epidemic,2009,Bolivia,Dengue fever,18,False,18.0,18.0,AD,2009,2009,Dengue fever,Bolivia,False,False,False,False,False,True
+209,2009 Gujarat hepatitis outbreak,2009,India,Hepatitis B,49,False,49.0,49.0,AD,2009,2009,Hepatitis B,India,False,True,False,False,False,False
+210,Queensland 2009 dengue outbreak,2009,"Queensland, Australia",Dengue fever,1+ (503 cases),False,1.0,,AD,2009,2009,Dengue fever,Australia,False,False,False,True,False,False
+211,2009–2010 West African meningitis outbreak,2009–2010,West Africa,Meningitis,1100,False,1100.0,1100.0,AD,2010,2009,Meningitis,Multiple,False,False,True,False,False,False
+212,2009 swine flu pandemic,2009–2010,Worldwide,Influenza A virus subtype H1N1,"Lab confirmed deaths: 18,449 (reported to the WHO)",False,18449.0,18449.0,AD,2010,2009,Influenza,Multiple,True,True,True,True,True,True
+213,2009 swine flu pandemic,2009–2010,Worldwide,Influenza A virus subtype H1N1,"Estimated death toll: 284,000 (possible range 151,700–575,400)",False,151700.0,575400.0,AD,2010,2009,Influenza,Multiple,True,True,True,True,True,True
+214,2010s Haiti cholera outbreak,2010–2019,Haiti,"Cholera (strain serogroup O1, serotype Ogawa)",10075,False,10075.0,10075.0,AD,2019,2010,Cholera,Haiti,False,False,False,False,True,False
+215,2010–2014 Democratic Republic of the Congo measles outbreak,2010–2014,Democratic Republic of the Congo,Measles,"4,500+",False,4500.0,,AD,2014,2010,Measles,Democratic Republic of the Congo,False,False,True,False,False,False
+216,"2011 Vietnam hand, foot, and mouth disease epidemic",2011,Vietnam,"Hand, foot, and mouth disease",170,False,170.0,170.0,AD,2011,2011,"Hand, foot, and mouth disease",Vietnam,False,True,False,False,False,False
+217,2011 dengue outbreak in Pakistan,2011,Pakistan,Dengue fever,350+,False,350.0,,AD,2011,2011,Dengue fever,Pakistan,False,True,False,False,False,False
+218,"2012 yellow fever outbreak in Darfur, Sudan",2012,"Darfur, Sudan",Yellow fever,171,False,171.0,171.0,AD,2012,2012,Yellow fever,Sudan,False,False,True,False,False,False
+219,2012 Middle East respiratory syndrome coronavirus outbreak,2012–2021,Worldwide,Middle East respiratory syndrome / MERS-CoV,941 (as of 8 May 2021,False,941.0,941.0,AD,2021,2012,MERS,Multiple,True,True,True,True,True,True
+220,2013 dengue outbreak in Singapore,2013,Singapore,Dengue fever,8,False,8.0,8.0,AD,2013,2013,Dengue fever,Singapore,False,True,False,False,False,False
+221,2013 Vietnam measles outbreak,2013–2014,Vietnam,Measles,142,False,142.0,142.0,AD,2014,2013,Measles,Vietnam,False,True,False,False,False,False
+222,Western African Ebola virus epidemic,2013–2016,"Worldwide, primarily concentrated in Guinea, Liberia, Sierra Leone",Ebola Ebola virus virion,"11,323+",False,11323.0,,AD,2016,2013,Ebola,Multiple,True,True,True,True,True,True
+223,2013–2014 chikungunya outbreak,2013–2015,Americas,Chikungunya,183,False,183.0,183.0,AD,2015,2013,Chikungunya,Multiple,False,False,False,False,True,True
+224,2013–19 avian influenza epidemic,2013–2019,China,Influenza A virus subtype H7N9,616,False,616.0,616.0,AD,2019,2013,Influenza,China,False,True,False,False,False,False
+225,21st century Madagascar plague outbreaks,2014–2017,Madagascar,Bubonic plague,292,False,292.0,292.0,AD,2017,2014,Bubonic plague,Madagascar,False,False,True,False,False,False
+226,Flint water crisis,2014–2015,"Flint, Michigan, United States",Legionnaires' disease,12,False,12.0,12.0,AD,2015,2014,Legionnaires' disease,United States,False,False,False,False,True,False
+227,2014 Odisha hepatitis outbreak,2014–2015,India,"Primarily Hepatitis E, but also Hepatitis A",36,False,36.0,36.0,AD,2015,2014,Multiple,India,False,True,False,False,False,False
+228,2015 Indian swine flu outbreak,2015,India,Influenza A virus subtype H1N1,2035,False,2035.0,2035.0,AD,2015,2015,Influenza,India,False,True,False,False,False,False
+229,2015–16 Zika virus epidemic,2015–2016,Worldwide,Zika virus,53,False,53.0,53.0,AD,2016,2015,Zika virus,Multiple,True,True,True,True,True,True
+230,2016 Angola and Democratic Republic of the Congo yellow fever outbreak,2016,Angola and Democratic Republic of the Congo,Yellow fever,"498 (377 in Angola, 121 in Congo)",False,498.0,498.0,AD,2016,2016,Yellow fever,Multiple,False,False,True,False,False,False
+231,2016–2022 Yemen cholera outbreak,2016–2022,Yemen,Cholera,"3,981 (as of December 2020",False,3981.0,3981.0,AD,2022,2016,Cholera,Yemen,False,True,False,False,False,False
+232,2017 dengue outbreak in Peshawar,2017,"Peshawar, Pakistan",Dengue fever,69,False,69.0,69.0,AD,2017,2017,Dengue fever,Pakistan,False,True,False,False,False,False
+233,2017 Gorakhpur hospital deaths,2017,India,Japanese encephalitis,1317,False,1317.0,1317.0,AD,2017,2017,Japanese encephalitis,India,False,True,False,False,False,False
+234,2017 dengue outbreak in Sri Lanka,2017,Sri Lanka,Dengue fever,440,False,440.0,440.0,AD,2017,2017,Dengue fever,Sri Lanka,False,True,False,False,False,False
+235,2018 Nipah virus outbreak in Kerala,2018,India,Nipah virus infection,17,False,17.0,17.0,AD,2018,2018,Nipah virus infection,India,False,True,False,False,False,False
+236,Kivu Ebola epidemic,2018–2020,Democratic Republic of the Congo and Uganda,Ebola,2280,False,2280.0,2280.0,AD,2020,2018,Ebola,Multiple,False,False,True,False,False,False
+237,2018 NDM-CRE outbreak in Italy,2018–2019,Italy,New Delhi metallo-beta-lactamase-producing Carbapenem-resistant enterobacteriaceae,31 (as of September 2019),False,31.0,31.0,AD,2019,2018,NDM-producing CRE,Italy,True,False,False,False,False,False
+238,2019–2020 measles outbreak in the Democratic Republic of the Congo,2019–2020,Democratic Republic of the Congo,Measles,"7,018+",False,7018.0,,AD,2020,2019,Measles,Democratic Republic of the Congo,False,False,True,False,False,False
+239,2019–2020 New Zealand measles outbreak,2019–2020,New Zealand,Measles,2,False,2.0,2.0,AD,2020,2019,Measles,New Zealand,False,False,False,True,False,False
+240,2019 measles outbreak in the Philippines,2019,Philippines,Measles,415,False,415.0,415.0,AD,2019,2019,Measles,Philippines,False,True,False,False,False,False
+241,2019 Kuala Koh measles outbreak,2019,"Kuala Koh, Malaysia",Measles,15,False,15.0,15.0,AD,2019,2019,Measles,Malaysia,False,True,False,False,False,False
+242,2019 Samoa measles outbreak,2019,Samoa,Measles,83,False,83.0,83.0,AD,2019,2019,Measles,Samoa,False,False,False,True,False,False
+243,2019–2020 dengue fever epidemic,2019–2020,"Asia-Pacific, Latin America",Dengue fever,3930,False,3930.0,3930.0,AD,2020,2019,Dengue fever,Multiple,False,True,False,True,True,True
+244,2019 Nigeria Lassa fever epidemic,2019–2021,Nigeria,Lassa fever,247 (as of May 2021),False,247.0,247.0,AD,2021,2019,Lassa fever,Nigeria,False,False,True,False,False,False
+245,COVID-19 pandemic,2019–present,Worldwide,Coronavirus disease 2019 / COVID-19 SARS-CoV-2 virus,7–29.3 million (as of April 2023,False,7000000.0,29000000.0,AD,2023,2019,COVID,Multiple,True,True,True,True,True,True
+246,2020 Democratic Republic of the Congo Ebola outbreak,2020,Democratic Republic of the Congo,Ebola,55,False,55.0,55.0,AD,2020,2020,Ebola,Democratic Republic of the Congo,False,False,True,False,False,False
+247,2020 dengue outbreak in Singapore,2020,Singapore,Dengue fever,32,False,32.0,32.0,AD,2020,2020,Dengue fever,Singapore,False,True,False,False,False,False
+248,2020 Nigeria yellow fever epidemic,2020,Nigeria,Yellow fever,296 (as of 31 December 2020),False,296.0,296.0,AD,2020,2020,Yellow fever,Nigeria,False,False,True,False,False,False
+249,2021 India black fungus epidemic,2021-2022,India,Black fungus (COVID-19 condition),4332,False,4332.0,4332.0,AD,2022,2021,Black fungus,India,False,True,False,False,False,False
+250,2022 hepatitis of unknown origin in children,2021–2022,Worldwide,Hepatitis by Adenovirus variant AF41 (Unconfirmed),18,False,18.0,18.0,AD,2022,2021,Unconfirmed,Multiple,True,True,True,True,True,True
+251,2022–2023 monkeypox outbreak,2022–present,Worldwide,Monkeypox virus,280,False,280.0,280.0,AD,2023,2022,Monkeypox virus,Multiple,True,True,True,True,True,True
+252,2022 Uganda Ebola outbreak,2022–2023,Uganda,Sudan ebolavirus,77,False,77.0,77.0,AD,2023,2022,Ebola,Uganda,False,False,True,False,False,False
